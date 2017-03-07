@@ -27,12 +27,9 @@ Rheight = input("Height of multiplication table: ")
 w = int(Rwidth) + 1
 h = int(Rheight) + 1
 
-x= 0
-y= 0 
-
-for x in range(h):
+for x in range(1,h):
     print("")
-    for y in range(w):
+    for y in range(1,w):
         print(x*y,end = " ")
     
     
