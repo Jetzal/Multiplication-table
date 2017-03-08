@@ -1,8 +1,8 @@
 """
 multiplication-table.py
-Author: <your name here>
-Credit: <list sources used, if any>
-Assignment:
+Author: jett
+Credits: noone
+Assignment: muktiplcaiton
 
 Write and submit a Python program that prints a multiplication table. The user 
 must be able to determine the width and height of the table before it is printed.
